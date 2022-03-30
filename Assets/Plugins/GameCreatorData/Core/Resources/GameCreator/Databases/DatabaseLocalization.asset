@@ -1,0 +1,666 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e3f2d8ee490d4908ab7414aa1ba761c, type: 3}
+  m_Name: DatabaseLocalization
+  m_EditorClassIdentifier: 
+  languages:
+  - language: 6
+    updateDate: 9/18/2021 6:33 PM
+  - language: 10
+    updateDate: 10/3/2021 11:26 AM
+  translationList:
+  - key: -117551925
+    placeholder: "\u81EA\u5DF1\u6247\u81EA\u5DF1\u8138\u5427\u3002"
+    content:
+    - language: 6
+      text: slap yourself
+    - language: 10
+      text: Slap yourself on your face!
+  - key: -894813129
+    placeholder: "\u662F\u4E0D\u662F\u6CA1\u957F\u8111\u5B50"
+    content:
+    - language: 6
+      text: "\u662F\u4E0D\u662F\u6CA1\u957F\u8111\u5B50"
+    - language: 10
+      text: Do you not have a brain?!
+  - key: 419498102
+    placeholder: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: How many times have you done this?!
+  - key: -1770693430
+    placeholder: "\u4F60\u8001\u5BB6\u5728\u54EA\uFF0C\u4E3A\u4EC0\u4E48\u81EA\u5DF1\u51FA\u6765\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Where is your hometown? Why did you come out all by yourself?
+  - key: 1032932862
+    placeholder: "\u6211\u5BB6\u5728\u5317\u65B9\u3002\u3002\u3002\u6211\u4E0D\u60F3\u4E0A\u5B66\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: My home is in the north...I don't want to go to school.
+  - key: 1730906041
+    placeholder: "\u5BB6\u91CC\u90FD\u8BF4\u8868\u54E5\u4E0B\u6D77\uFF0C\u5728\u5357\u65B9\u505A\u751F\u610F\u3002\u8BF4\u4ED6\u4E00\u4E0B\u5C31\u6709\u5F88\u591A\u94B1\uFF0C\u6211\u4E5F\u60F3\u6709\u5F88\u591A\u94B1\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: It is said in the family that my brother goes to sea and does business
+        in the south. It is said that he has a lot of money, and I want to have a
+        lot of money, too.
+  - key: -796770468
+    placeholder: "\u4F60\u60F3\u6709\u5F88\u591A\u94B1\u5E72\u561B\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What do you want so much money for?
+  - key: -491628777
+    placeholder: "\u54CE\uFF0C\u4F60\u8BA9\u6211\u60F3\u8D77\u81EA\u5DF1\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Well, you remind me of myself.
+  - key: 1950813481
+    placeholder: "\u6211\u4E5F\u50CF\u4F60\u8FD9\u4E48\u5927\uFF0C\u521D\u4E2D\u6CA1\u6BD5\u4E1A\u5C31\u51FA\u6765\u4E86\u3002\u6211\u6210\u7EE9\u53EF\u597D\uFF0C\u4E5F\u60F3\u5FF5\u4E66\uFF0C\u4F46\u6CA1\u529E\u6CD5\uFF0C\u6211\u66F4\u60F3\u8D5A\u94B1\uFF0C\u7ED9\u6211\u5988\u6CBB\u75C5\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I was your age and came out before graduating from junior high school.
+        I have good grades and want to study, but I can't help it. I had to make
+        money and treat my mother's illness.
+  - key: -1195615207
+    placeholder: "\u6211\u4E5F\u6CA1\u6709\u4F60\u8FD9\u6837\u7684\u597D\u4EB2\u621A\uFF0C\u9760\u81EA\u5DF1\u4E00\u4E2A\u4EBA\u6478\u722C\u6EDA\u6253\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I don't have a good relative like you, and I'm completely on my own.
+  - key: -2718704
+    placeholder: "\u4F60\u5988\u5988\u597D\u4E86\u5417\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Is your mom recovered now?
+  - key: -587498946
+    placeholder: "\u6CA1\u6709\u3002\u90FD\u602A\u6211\uFF0C\u602A\u6211\u5F53\u65F6\u6CA1\u60F3\u5F00\uFF0C\u8FD8\u662F\u665A\u4E86\u4E00\u6B65\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: No. It's all my fault. I couldn't think through it all, until it was
+        still too late.
+  - key: 1192853834
+    placeholder: "\u521A\u5F00\u59CB\u627E\u5230\u4E00\u5BB6\u5DE5\u5382\u505A\u5973\u5DE5\uFF0C\u8F9B\u82E6\u6B7B\u4E86\uFF0C\u6BCF\u4E2A\u6708\u4E5F\u624D\u56DB\u4E94\u767E\u5757\u94B1\uFF0C\u5BC4\u56DE\u5BB6\u4E09\u767E\uFF0C\u4F46\u8FD8\u662F\u4E0D\u591F\u533B\u836F\u8D39\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: At the beginning, I found a factory to work as a female worker. It was
+        very hard. It was only 400 to 500 yuan a month, and I sent it home for 300
+        yuan, but it was still not enough for medical expenses.
+  - key: -359971098
+    placeholder: "\u540E\u6765\u88AB\u540C\u5382\u7684\u5927\u59D0\u4ECB\u7ECD\u5230\u8FD9\u513F\uFF0C\u8BF4\u8D5A\u94B1\u591A\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Later, I was introduced here by an older sister from the same factory,
+        saying that she made a lot of money.
+  - key: 1072308612
+    placeholder: "\u6211\u672C\u6765\u4EE5\u4E3A\u5C31\u7ED9\u4EBA\u6D17\u5934\u3002\u6CA1\u60F3\u5230\u6765\u4E86\u4E4B\u540E\u77E5\u9053\u6211\u8FD8\u6CA1\u4EA4\u7537\u670B\u53CB\uFF0C\u5C31\u529D\u6211\u5165\u884C\uFF0C\u8BF4\u5F88\u5FEB\u5C31\u80FD\u8D5A\u51E0\u5343\u5757\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I thought it was just a hair salon. Unexpectedly, when they came to know
+        that I haven't had a boyfriend, they persuaded me to join the profession,
+        saying that I would soon earn thousands of yuan.
+  - key: -631494409
+    placeholder: "\u6211\u6B7B\u6D3B\u4E0D\u5E72\uFF0C\u53C8\u56DE\u5DE5\u5382\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I refused to do it and went back to the factory.
+  - key: 1393162742
+    placeholder: "\u540E\u6765\u60F3\u60F3\uFF0C\u5356\u9752\u6625\uFF0C\u6216\u8005\u5356\u6211\u5728\u5DE5\u5382\u7C98\u7EB8\u58F3\u7684\u624B\uFF0C\u53C8\u6709\u4EC0\u4E48\u533A\u522B\u5462\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: After thinking about it for a while, what's the difference between selling
+        youth or selling my labor making packaging boxes in the factory?
+  - key: -1439968359
+    placeholder: "\u90FD\u662F\u9760\u6211\u81EA\u5DF1\u7684\u52B3\u52A8\u6323\u53E3\u996D\u5403\u3002\u8FD9\u513F\u8F7B\u8F7B\u677E\u677E\u4E00\u4E2A\u6708\u5C31\u4E00\u4E24\u5343\u5757\uFF0C\u4F55\u5FC5\u8F83\u771F\u5462\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I earn a living by my own work. It's easy here to make one or two thousand
+        yuan a month, so there's no need to take it seriously.
+  - key: 1393224830
+    placeholder: "\u6211\u8FD8\u662F\u96BE\u8FC7\u4E86\u597D\u4E45\u30024000\u5757\u554A\uFF0C\u597D\u5927\u7684\u6570\u5B57\u3002\u8981\u662F\u518D\u65E9\u70B9\u6709\u8FD9\u4E9B\u94B1\uFF0C\u6211\u5988\u5C31\u6709\u66F4\u591A\u94B1\u4E70\u836F\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I was sad for a long time. 4000 yuan, that's a lot of money. If I had
+        had this money earlier, my mother would have had more money to buy medicine.
+  - key: -2127134037
+    placeholder: "\u54CE\u3002\u3002\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: ...
+  - key: 300385736
+    placeholder: "\u5F88\u4E45\u6CA1\u6709\u4EBA\u597D\u597D\u542C\u8FC7\u6211\u8BF4\u8BDD\u4E86\uFF0C\u8BA9\u4F60\u542C\u6211\u8BF4\u4E86\u8FD9\u4E48\u591A\u3002\u3002\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: No one has listened to me for a long time. I said so much...
+  - key: 1638401037
+    placeholder: "\u201C\u7237\u7237\uFF0C\u8BF7\u95EE\u4F60\u77E5\u9053\u8FD9\u91CC\u600E\u4E48\u8D70\u5417\uFF1F\u201D"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Grandpa, do you know how to get to this place?
+  - key: 512850135
+    placeholder: "\u4F60\u81EA\u5DF1\u4E00\u4E2A\u4EBA\u5417\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Are you all by yourself?
+  - key: 696895654
+    placeholder: "\u55EF\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Hummm, yes.
+  - key: -1005133970
+    placeholder: "\u5B50\u4E11\u5BC5\u536F...... \u4F60\u6765\u8FD9\u513F\uFF0C\u662F\u8981\u5BFB\u4EC0\u4E48\u4EBA\u7684\u5427\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Zi Chou Yin Mao......you come all the way here...to look for someone,
+        right.
+  - key: -1553061599
+    placeholder: "\u4F60\u600E\u4E48\u77E5\u9053\uFF1F\uFF01"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: How do you know?
+  - key: -703125568
+    placeholder: "\u8FD9\u4EBA\u5BF9\u4F60\u5F88\u91CD\u8981\u5427\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: This person...must be very important to you.
+  - key: 1311622315
+    placeholder: "\u662F\uFF0C\u662F\uFF01\u6211\u662F\u6765\u627E\u6211\u54E5\u7684\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Yes, Yes! I am here to look for my older brother.
+  - key: -1962816910
+    placeholder: "\u4ECA\u65E5\u4F60\u6211\u5728\u8FD9\u91CC\u76F8\u9047\u4E5F\u4E0D\u662F\u5076\u7136\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Today we meet here. It's not a conincidence.
+  - key: 1671033041
+    placeholder: "\u662F\u795E\u4ED9\u8BA9\u6211\u6765\u5E2E\u4F60\u6307\u8DEF\u7684\uFF0C\u5E2E\u4F60\u627E\u5230\u4F60\u54E5\u7684\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: The deity has sent me to show you the way. The way to your brother.
+  - key: 1098423939
+    placeholder: "\u4F60\u968F\u4FBF\u8BF4\u51FA\u4E00\u767E\u4EE5\u5185\u7684\u4E24\u4E2A\u6570\u5B57\u7ED9\u6211\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Tell me to random numbers from within 1 to 100.
+  - key: -812376342
+    placeholder: "33\uFF0C86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: "33\uFF0C86\u3002"
+  - key: 1071624277
+    placeholder: "\u5366\u8C61\u4E0D\u597D\uFF0C\u8FD9\u4E8B\u96BE\u529E\u6210\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Hexagram image is not ideal. This is a difficult matter.
+  - key: 454408028
+    placeholder: "\u4EC0\u4E48\u610F\u601D"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What do you mean?
+  - key: -956136225
+    placeholder: "\u591A\u53D8\u6570\uFF0C\u4E0D\u80FD\u4E00\u5E06\u98CE\u987A"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: If there are many variables, it can't be plain sailing.
+  - key: 772332610
+    placeholder: "\u201C\u4E0D\u8FC7\u4E5F\u4E0D\u662F\u5B8C\u5168\u6CA1\u6709\u529E\u6CD5\uFF0C\u8FD9\u4E9B\u9EBB\u70E6\u90FD\u53EF\u4EE5\u7528\u6211\u7684\u7B26\u5316\u89E3\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: However, it is not completely impossible. These troubles can be solved
+        with my charms.
+  - key: -500232643
+    placeholder: "\u4EC0\u4E48\u4E1C\u897F\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What's that?
+  - key: -1632490778
+    placeholder: "\u8FD9\u4E2A\u554A\uFF0C\u662F\u6211\u66FF\u4F60\u5411\u795E\u4ED9\u6C42\u7684\u901A\u884C\u8BC1\uFF0C\u4E00\u5B9A\u4E0D\u80FD\u4E22\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: This is the pass I asked the immortal for you. You mustn't lose it.
+  - key: -1369155136
+    placeholder: "\u597D\u7684\uFF0C\u8C22\u8C22\u60A8\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Great. Thank you so much.
+  - key: -517703373
+    placeholder: "\u4E0D\u8C22\u4E0D\u8C22\uFF0C\u4ECA\u5929\u80FD\u5728\u8FD9\u91CC\u76F8\u9047\u5C31\u662F\u6211\u4EEC\u7684\u7F18\u5206\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: No need for thanks. It's our fate to meet here today.
+  - key: -969267508
+    placeholder: "\u8FD9\u5366\u6211\u5C31\u9001\u4F60\u4E86\uFF0C\u7B26188\u5143\u3002\u66FF\u795E\u4ED9\u7ED9\u4F60\u6253\u4E2A\u6298\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I'll give you this Hexigram for 188 yuan. It's discounted price from
+        the deity.
+  - key: 1074276531
+    placeholder: "\u8FD9\u4E48\u8D35\uFF01\u6211\u6CA1\u6709\u8FD9\u4E48\u591A\u94B1\uFF0C\u6211\u4E0D\u8981\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: It's so expensive! I don't have so much money. I don't want it anymore.
+  - key: 1103757357
+    placeholder: "\u4E0D\u884C\uFF0C\u521A\u521A\u4F60\u53EF\u6CA1\u62D2\u7EDD\u3002\u8FD9\u7B26\u4E00\u65E6\u51FA\u53BB\uFF0C\u53EF\u4E0D\u80FD\u518D\u6536\u56DE\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: No, you didn't say no just now. Once this charm is out, it can no longer
+        be taken back.
+  - key: -2054451890
+    placeholder: "\u90A3\uFF0C\u90A3\u6211\u627E\u5230\u6211\u54E5\u518D\u56DE\u6765\u7ED9\u94B1\u884C\u5417\uFF1F "
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: 'Well, can I find my brother and come back to pay for it? '
+  - key: -369289133
+    placeholder: "\u54CE\uFF0C\u6211\u662F\u7ED9\u5929\u4E0A\u7684\u795E\u4ED9\u5F53\u5DEE\uFF0C\u8FD9\uFF0C\u4E0D\u597D\u8D4A\u8D26\u554A\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Well, I work for the gods in the sky. It's not good to write a debt.
+  - key: 1949359604
+    placeholder: "\u6211\u6CA1\u6CD5\u4E0A\u53BB\u4EA4\u4EE3\uFF0C\u8FD9\u906D\u6B83\u7684\u53EF\u4E0D\u53EA\u662F\u6211\uFF0C\u8FD8\u6709\u4F60\uFF0C\u4F60\u5BB6\u4EBA\uFF0C\u4F60\u54E5\u54E5\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I can't go up there to explain. It's not just me, but concerning you,
+        your family, your brother.
+  - key: 346213094
+    placeholder: "\u795E\u4ED9\u53D1\u8D77\u706B\u6765\uFF0C\u6211\u4EEC\u8FD9\u4E9B\u51E1\u4EBA\u53EF\u7ECF\u4E0D\u4F4F\u554A\u3002\u5230\u65F6\u5019\u4F60\u4EEC\u6709\u4E2A\u4E09\u957F\u4E24\u77ED\u3002\u3002\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: If the gods are angry, we mortals can't stand it. If you accidentally
+        get punished...No, no, no. no, no, no.
+  - key: -1564050608
+    placeholder: "\u7237\u7237\uFF0C\u8FD9\uFF0C\u8FD9\u662F\u6211\u73B0\u5728\u6240\u6709\u7684\u94B1\u4E86\uFF0C80\u5757\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Grandpa, this is all the money I have now, 80 yuan.
+  - key: -910438854
+    placeholder: "\u60A8\u80FD\u4E0D\u80FD\u5148\u8DDF\u795E\u4ED9\u8BF4\u8BF4\uFF0C\u6211\u627E\u5230\u54E5\u54E5\u5C31\u56DE\u6765\u627E\u60A8\uFF0C\u628A\u94B1\u8865\u4E0A\u3002\u8BA9\u4ED6\u4E0D\u8981\u4F24\u5BB3\u6211\u4EEC\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Could you tell the gods first that I will come back to you as soon as
+        I find my brother and make up the money? Tell him not to hurt us.
+  - key: -1327204264
+    placeholder: "\u6211\u77E5\u9053\u4F60\u662F\u4E2A\u597D\u5B69\u5B50\u3002\u8FD9\u6837\u5427\uFF0C\u4F60\u53BB\u8857\u4E0A\u627E\u4EBA\u501F\u501F\u94B1\uFF0C\u770B\u4F60\u662F\u4E2A\u5C0F\u5B69\u4E00\u5B9A\u4F1A\u7ED9\u4F60\u7684\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I know you're a good kid. I'll tell you what, if you go to the street
+        and ask someone to borrow money. They will certainly give it to you if you
+        are a child.
+  - key: 1257334983
+    placeholder: "\u989D......"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: hmm......
+  - key: -60705543
+    placeholder: "\u6709\u4E8B\u5417\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What's up?
+  - key: 657822588
+    placeholder: "\u963F\uFF0C\u963F\u59E8\u597D\u3002\u6211\u3002\u3002\u3002\u3002\u3002\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Hi...Hi...Auntie...I...
+  - key: 858509226
+    placeholder: "\u4F60\u600E\u4E48\u4E86\uFF1F\u652F\u652F\u543E\u543E\u7684\uFF0C\u5356\u4EC0\u4E48\u5173\u5B50\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What happened? Why are you stuttering...
+  - key: 1905840641
+    placeholder: "\u6211\u80FD\u501F\u70B9\u94B1\u5417\uFF1F\u6211\u4FDD\u8BC1\u4E00\u5B9A\u4F1A\u8FD8\u7684\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Can I borrow some money? I promise I will return it.
+  - key: 587844928
+    placeholder: "\u5475\uFF0C\u4F60\u662F\u8C01\u3002\u51ED\u4EC0\u4E48\u501F\u94B1\u7ED9\u4F60\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Wh...what? Who the f*** are you? Why the f*** should I lend you money?
+  - key: -653524010
+    placeholder: "\u6211\u8868\u54E5\u5C31\u5728\u8FD9\u513F\uFF0C\u627E\u5230\u4ED6\u5C31\u4F1A\u8FD8\u94B1\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: My older brother lives here. I will return the money as soon as I find
+        him.
+  - key: -1492763469
+    placeholder: "\u54E6\uFF0C\u4F46\u6211\u8FD9\u5F00\u5E97\u6323\u94B1\uFF0C\u4E5F\u4E0D\u662F\u5927\u98CE\u522E\u6765\u7684\u3002\u6CA1\u6709\u95F2\u94B1\u80FD\u501F\u4F60\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Alright, kid, the money I made is from hard work, not blown over by wind.
+        There is no spare money to lend you.
+  - key: 146745596
+    placeholder: "\u600E\u4E48\u56DE\u4E8B\uFF0C\u4F60\u4E3A\u4EC0\u4E48\u6765\u8FD9\u91CC\u8981\u94B1? "
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What's the matter? Why are you here to ask for money?
+  - key: 764859238
+    placeholder: "\u7B97\u547D\u7684\u7237\u7237\u8BA9\u6211\u6765\u7684\uFF0C\u6211\u6B20\u4ED6100\u5757\uFF0C\u4ED6\u8BF4\u8FD8\u4E0D\u4E0A\u6211\u5C31\u5B8C\u86CB\u4E86"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: The fortune-teller asked me to come. I owe him 100 yuan, and he said
+        I was screwed if I didn't pay him back.
+  - key: 161118899
+    placeholder: "\u4F60\u4E3A\u4EC0\u4E48\u4F1A\u6B20\u4ED6\u94B1\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: How did you end up oweing him money?
+  - key: -379548765
+    placeholder: "\u6211..... \u6211\u53BB\u95EE\u8DEF\uFF0C\u4ED6\u8BF4\u80FD\u5E2E\u6211\u627E\u6211\u8868\u54E5\u3002\u7ED9\u6211\u4E86\u4E2A\u7B26\uFF0C\u8BA9\u6211\u7ED9\u94B1\u3002\u6211\u4E0D\u77E5\u9053\u8981\u90A3\u4E48\u8D35....."
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I... I asked for directions, and he said he could help me find my cousin.
+        He gave me a charm and asked me to give me money. I didn't know it was so
+        expensive.
+  - key: 1546605974
+    placeholder: "\u963F\u59E8\uFF0C\u4F60\u80FD\u4E0D\u80FD\u6551\u6551\u6211\u3002\u6211\u5411\u4F60\u53D1\u8A93\uFF0C\u6211\u627E\u5230\u8868\u54E5\u4E00\u5B9A\u6765\u8FD8\u94B1\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Auntie, can you help me? I swear to you, I will pay back the money when
+        I find my cousin.
+  - key: 1351800518
+    placeholder: "\u4F60\u554A\uFF0C\u8FD9\u662F\u88AB\u9A97\u4E86\uFF0C\u4E0D\u7528\u6015\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: You have been cheated, don't be afraid.
+  - key: -1406951829
+    placeholder: "\u8981\u662F\u518D\u89C1\u5230\u4ED6\u4F60\u5C31\u8BF4\u4F60\u8BA4\u8BC6\u540E\u8857\u7684\u840D\u54E5\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: If you see him again, say you know Boss Ping from the back Street.
+  - key: 1092786362
+    placeholder: "\u4ED6\u662F\u6211\u4EEC\u8FD9\u513F\u7684\u5934\uFF0C\u6CA1\u4EBA\u6562\u60F9\u4ED6\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: He's our boss here, and no one dares to mess with him.
+  - key: 1427280082
+    placeholder: "\u597D\u7684\uFF0C\u8C22\u8C22\uFF01"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Great! Thank you!
+  - key: -1984984618
+    placeholder: "\u770B\u4F60\u4E00\u526F\u50BB\u5B66\u751F\u6C14\uFF0C\u51C0\u62DB\u4EBA\u9A97\u3002\u59D0\u7ED9\u4F60\u6362\u4E2A\u53D1\u578B\uFF0C\u5728\u5916\u9762\u4E5F\u80FD\u552C\u552C\u90A3\u4E9B\u4EBA\u3002\u3002\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Look at you, you look like a dump student, and you are being cheated.
+        Let me change your hairstyle to something that can bluff those people outside.
+  - key: -1040583638
+    placeholder: "\u521A\u624D\u53D1\u751F\u4E86\u4EC0\u4E48\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: What was the matter?
+  - key: 1800683420
+    placeholder: "\u6CA1\u4E8B\uFF0C\u6211\u53C8\u5FD8\u5E26\u5B66\u751F\u5361\u4E86"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Nothing...I forgot my student ID...
+  - key: -37511124
+    placeholder: "\u6253\u7684\u75BC\u4E48 "
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Does it hurt?
+  - key: 1077511836
+    placeholder: "\u4E0D\u75BC\uFF0C\u4E00\u4F1A\u513F\u5C31\u597D\u4E86\u3002 "
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: It's fine.
+  - key: 1531225745
+    placeholder: "\u4F60\u770B\u8D77\u6765\u4E0D\u50CF\u672C\u5730\u4EBA\uFF0C\u4F60\u6765\u505A\u4EC0\u4E48\u7684\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: You don't look like you are from this city. What are you here for?
+  - key: -34069228
+    placeholder: "\u6211\u6765\u627E\u4EBA"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I'm looking for someone.
+  - key: 43959448
+    placeholder: "\u627E\u8C01\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Who?
+  - key: -1692635464
+    placeholder: "\u627E\u6211\u54E5\u54E5"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: My borther.
+  - key: 1670378374
+    placeholder: "\u597D\u4E86\uFF0C\u4E0B\u4E0D\u4E3A\u4F8B\uFF01"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: All right, stop. I hope it won't happen again!
+  - key: -1038115829
+    placeholder: "\u5C0F\u670B\u53CB\uFF0C\u4E00\u4E2A\u4EBA\u6765\u6DF1\u5733\u5417\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Kid, you have come to this big city all by yourself?
+  - key: -2135447035
+    placeholder: "\u55EF"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Yes
+  - key: 1622269106
+    placeholder: "\u4F60\u80CC\u7740\u4E66\u5305\u6765\u8F66\u7AD9\uFF0C\u4E0D\u53BB\u4E0A\u5B66\u554A\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: You come to a bus station wearing a backpack. You don't need to go to
+        school?
+  - key: 1549464626
+    placeholder: "\u6211\u662F\u6765\u8FD9\u513F\u627E\u6211\u54E5\u7684\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: I come here to look for my older brother.
+  - key: 1599399520
+    placeholder: "\u4F60\u54E5\uFF0C\u4ED6\u5728\u8FD9\u513F\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Your brother? he is...here?
+  - key: -1663251511
+    placeholder: "\u55EF\uFF0C\u6211\u5BB6\u4EBA\u90FD\u8BF4\u4ED6\u4E0B\u6D77\u6765\u8FD9\u513F\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Oh yes...My parents said he has 'gone to the see'...
+  - key: 1764966866
+    placeholder: "\u54DF\uFF0C\u90A3\u4F60\u662F\u6709\u798F\u54AF\uFF0C\u4ED6\u8BF4\u4E0D\u5B9A\u5728\u8FD9\u513F\u5DF2\u7ECF\u662F\u5927\u8001\u677F\u4E86\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Wow. You are in luck. He might have already been a big boss now...
+  - key: -1433285570
+    placeholder: "\u4F60\u77E5\u9053\u8FD9\u4E2A\u5730\u65B9\u600E\u4E48\u8D70\u5417\uFF1F"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: Do you know how to get to this place?
+  - key: 499458678
+    placeholder: "\u8FD9\u6761\u8857\uFF0C\u6211\u6CA1\u89C1\u8FC7\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: This street...I have never seen it before.
+  - key: -1005952473
+    placeholder: ...
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: ...
+  - key: -693357762
+    placeholder: "\u522B\u60F3\u5728\u6211\u8FD9\u513F\u8D56\u8D26\uFF0C\u8FD8\u60F3\u5728S\u5E02\u4E0D\u7F3A\u80F3\u818A\u5C11\u817F\u5730\u5446\u7740\u5C31\u5FEB\u7ED9\u6211\u53BB\u8981\u94B1\u3002"
+    content:
+    - language: 6
+      text: "\u8FD9\u662F\u7B2C\u51E0\u6B21\u4E86\uFF1F"
+    - language: 10
+      text: ...
